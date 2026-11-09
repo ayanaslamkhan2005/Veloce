@@ -106,8 +106,8 @@ Veloce-Bluetooth-Controlled-Robotic-Car/
 │   └── receiver.ino
 │
 └── Images/
-    ├── car.jpg
-    └── circuit.jpg
+    ├── VeloceRemoteCar.jpeg
+    └── VeloceCarAlongWithMe.jpeg
 ```
 
 ## 💻 Code Description
